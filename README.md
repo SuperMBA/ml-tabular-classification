@@ -53,3 +53,50 @@
 
 [GitHub](https://github.com/SuperMBA) | [Telegram](https://t.me/SuperMBA)
 
+---
+
+# 📊 Classification Project: Machine Learning on Tabular Data
+
+## 📌 Overview
+This project demonstrates a basic machine learning pipeline using a tabular dataset. The goal is to classify samples based on their features using supervised learning techniques.
+
+The work includes:
+- Data loading and preprocessing
+- Exploratory Data Analysis (EDA)
+- Feature selection and scaling
+- Model training and evaluation
+- ROC curves and metric visualization
+
+## 🛠 Technologies & Tools
+- Python 3  
+- pandas, numpy  
+- scikit-learn  
+- matplotlib, seaborn  
+- Jupyter Notebook
+
+## 🔍 Project Structure
+- `BalandinaMA.ipynb` — main notebook with full pipeline and outputs
+
+## ✅ Model Workflow
+1. Data Cleaning  
+2. EDA (correlation matrix, distributions, boxplots)  
+3. Feature normalization and selection  
+4. Training: Logistic Regression, KNN  
+5. Evaluation: Confusion Matrix, Accuracy, ROC-AUC  
+
+## 📈 Results
+- Built and compared several classifiers
+- Visualized performance using ROC and classification reports
+- Demonstrated how preprocessing affects model accuracy
+
+## 📚 Context
+This project was created as part of my studies while transitioning into data science. It reflects my understanding of classical ML approaches applied to real-world datasets.
+
+## 👩‍💻 Author
+**Margarita Balandina**  
+- MIPT Data Science Master’s student  
+- Interested in AI for healthcare, MedTech, and applied ML  
+- [GitHub](https://github.com/SuperMBA) | [Telegram](https://t.me/SuperMBA)
+
+
+
